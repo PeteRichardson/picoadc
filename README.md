@@ -3,8 +3,13 @@
 Trivial example of reading, smoothing and scaling a
 potentiometer on a Raspberry Pi Pico in C.
 
-(insert picture)
-(insert video)
+![picoadc](https://user-images.githubusercontent.com/979694/191621874-24dd84ed-1d90-437c-bb3a-bbf783d31f52.jpg)
+
+
+https://user-images.githubusercontent.com/979694/191621953-1343d179-ed62-4115-9f3a-60c29d8da54a.mp4
+
+
+
 
 ### Required:
 * Raspberry Pi Pico
